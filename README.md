@@ -1,5 +1,5 @@
 # CodeReadability
-The search string is a tool for advanced search. In this repository are found some additional materials about the research.
+In this repository are found some additional materials about the research.
 
 ## Search string per engine
 Each search engine has its own form of advanced search, so the search string must be adjusted for each of the devices used in the review. In this directory are the search strings used in the search engines ACM, IEEE and Scopus.
