@@ -1,4 +1,4 @@
-# CodeReadability
+# Evaluating Code Readability and Legibility: An Examination of Human-centric Studies
 In this repository are found some additional materials about the research.
 
 ## Search string per engine (SS)
