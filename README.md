@@ -6,9 +6,9 @@ In this repository are found some additional materials about the research.
 Each search engine has its own form of advanced search, so the search string must be adjusted for each of the devices used in the review. Therefore, the search strings used in each machine are listed below.
 
 * ACM:
-      ```
+     '''
       acmdlTitle :( "code comprehension" "code understandability" "code understanding" "code readability" "program comprehension" "program understandability" "program understanding" "program readability" "programmer experience" "readability") OR keywords .author.keyword :( "code comprehension" "code understandability" "code understanding" "code readability" "program comprehension" "program understandingability" "program understanding" "program readability" "programmer experience" "readability")
-      ´´´
+ '''
 
 * IEEE:
         '''(("Document Title": "code comprehension" OR "code understandability" OR "code understanding" OR "code readability" OR "program comprehension" OR "program understandability" OR "program understanding" OR "program readability "OR" programmer experience "OR" readability "OR (" Author Keywords ":" code comprehension "OR" code understandability "OR" code understanding "OR" code readability "OR" program comprehension "OR" program understandability "OR" program understanding "OR" program readability "OR" programmer experience "OR" readability "))'''
