@@ -1,26 +1,31 @@
 # Evaluating Code Readability and Legibility: An Examination of Human-centric Studies
 In this repository are found some additional materials about the research.
 
-## [Search string per engine (SS)](/AllPhasesMergedPapers-Part1.md)
+## Search string per engine (SS)
 
 Each search engine has its own form of advanced search, so the search string must be adjusted for each of the devices used in the review. Therefore, the search strings used in each machine are listed below.
 
-* ACM:
+* ACM ([CSV](csv/Engine-Result-ACM.csv)):
 
           acmdlTitle :( "code comprehension" "code understandability" "code understanding" "code readability" "program comprehension" "program understandability" "program understanding" "program readability" "programmer experience" "readability") OR keywords .author.keyword :( "code comprehension" "code understandability" "code understanding" "code readability" "program comprehension" "program understandingability" "program understanding" "program readability" "programmer experience" "readability")
 
-* IEEE:
+* IEEE ([CSV](csv/Engine-Result-IEEE.csv)):
         
         (("Document Title": "code comprehension" OR "code understandability" OR "code understanding" OR "code readability" OR "program comprehension" OR "program understandability" OR "program understanding" OR "program readability "OR" programmer experience "OR" readability "OR (" Author Keywords ":" code comprehension "OR" code understandability "OR" code understanding "OR" code readability "OR" program comprehension "OR" program understandability "OR" program understanding "OR" program readability "OR" programmer experience "OR" readability "))
 
-* Scopus:
+* Scopus ([CSV](csv/Engine-Result-Scopus.csv)):
 
          TITLE ("programmer experience") OR TITLE ("program comprehension") OR TITLE ("code comprehension") TITLE ("code readability") OR TITLE ("code understandability") OR KEY ("code comprehension") ) OR KEY ("program comprehension") OR KEY ("program understandability") OR KEY ("readability")
 
-## List of papers (LP)
-In this directory, there is a list of all the papars found in each search engine. This directory is organized according to the exclusion phase and inclusion phase. The criteria evaluated in each phase are listed below.
+## List of papers and Selection (LPS)
+In this directory, there is a list of all the papers found in each search engine. This directory is organized according to the exclusion phase and inclusion phase. The criteria evaluated in each phase are listed below.
 
-* Study Exclusion
+* All Papers (after merge all engines results)
+  * Csv: [All documents](csv/MergedDocuments-Raw.csv) | [Manual included papers](csv/ManualPapersFound-Raw.csv)
+  * Pages (with informations about all phases): [Part 1](list-papers/AllPhasesMergedPapers-Part1.md) | [Part 2](list-papers/AllPhasesMergedPapers-Part2.md) | [Part 3](list-papers/AllPhasesMergedPapers-Part3.md) | [Part 4](list-papers/AllPhasesMergedPapers-Part4.md) | [Part 5](list-papers/AllPhasesMergedPapers-Part5.md)
+
+
+* Study Exclusion (Result after this phase: [csv](csv/Triage-Raw.csv) | [page](list-papers/Triage.md))
 
  ID | Description 
 --------- | :------
@@ -30,7 +35,7 @@ In this directory, there is a list of all the papars found in each search engine
  EC4 | The study is about program comprehension aids, such as visualizations or other forms of analysis or sensory aids (e.g. graphs, trace-based execution, code summarization, specification mining, reverse engineering). 
 | EC5 | The study focuses on accessibility, e.g., targets individuals with visual impairments or neurodiverse developers. 
 
-* Study Inclusion
+* Study Inclusion (Result after this phase: [csv](csv/First_Selection-Raw.csv) | [page](list-papers/First_Selection.md))
 
 ID | Description 
 --------- | :------
