@@ -21,6 +21,7 @@ Each search engine has its own form of advanced search, so the search string mus
 In this directory, there is a list of all the papars found in each search engine. This directory is organized according to the exclusion phase and inclusion phase. The criteria evaluated in each phase are listed below.
 
 * Study Exclusion
+
  ID | Description 
 --------- | ------:
  EC1 | The paper is outside the scope of this study. It is not primarily related to source code comprehension, readability, or legibility, does not involve any comparison of different ways to write programs, neither direct nor indirect, or is clearly irrelevant to our research questions. For instance, we exclude studies focusing on high-level design, documentation, and dependencies (higher-level issues). 
