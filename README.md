@@ -1,8 +1,8 @@
 # Evaluating Code Readability and Legibility: An Examination of Human-centric Studies
 In this repository are found some additional materials about the research.
 
-[Search string per engine (SS)](https://github.com/reydne/CodeReadability/blob/master/AllPhasesMergedPapers-Part1.md)
-[link to Google!](http://google.com)
+## [Search string per engine (SS)](https://github.com/reydne/CodeReadability/blob/master/AllPhasesMergedPapers-Part1.md)
+
 Each search engine has its own form of advanced search, so the search string must be adjusted for each of the devices used in the review. In this directory are the search strings used in the search engines ACM, IEEE and Scopus.
 
 ## List of papers (LP)
