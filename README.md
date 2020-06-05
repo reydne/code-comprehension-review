@@ -64,9 +64,9 @@ The data extraction step was also conducted through a questionnaire. Below are f
 
 * Assessment method: 10-15
 * Results: 16 and 17
-*
 
 Question | Possible answers
+--------- | :------
 1 Title 
 2 Authors 
 3 Publication Year 
