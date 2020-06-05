@@ -36,7 +36,7 @@ ID | Description
 --------- | :------
 IC1  (Scope) | The study must be primarily related to the topics of code comprehension, readability, legibility, or hard-to-understand code.
 IC2 (Methodology) | The study must be/contain at least one empirical study, such as controlled experiment, quasi-experiment, case study, or survey involving human subjects.
-IC3 (Comparison) | The study must compare alternative programming language constructs, coding idioms, or coding styles \textbf{in terms of code readability or legibility}.
+IC3 (Comparison) | The study must compare alternative programming language constructs, coding idioms, or coding styles in terms of code readability or legibility.
 IC4 (Granularity) | The study must target fine-grained program elements and low-level/limited-scope programming activities. Not design or comments, but implementation.
 
 ## Study quality assessment questionnaire (QA)
