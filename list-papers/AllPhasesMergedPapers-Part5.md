@@ -1,4 +1,4 @@
-[Back Page](/AllPhasesMergedPapers-Part4.md)
+[Back Page](AllPhasesMergedPapers-Part4.md)
 
 |  **#**| **Title**| **Author**  | **ACM** | **IEEE** | **Scopus** | **Triage** | **Initial Selection** | **Final Selection** |
 | ---: | - | - | ------ | - | :-----: | :-: | :-: | :-: |
@@ -532,4 +532,4 @@
 2847             |An Empirical Investigation into Programming Language Syntax                                                                                    |Stefik, Andreas and Siebert, Susanna                                                                                                                                                                                                                               |[DOI](https://doi.org/10.1145/2534973)             |                                                                    |                                                                                                                                                                     |:heavy_check_mark:|:heavy_check_mark:   |:heavy_check_mark:
 2848             |Dealing with faults in source code: Abbreviated vs. full-word names                                                                            |G. Scanniello and M. Risi                                                                                                                                                                                                                                          |[DOI](https://doi.org/10.1109/ICSM.2013.30)        |                                                                    |                                                                                                                                                                     |:heavy_check_mark:|:heavy_check_mark:   |:heavy_check_mark:
 
-[Back Page](/AllPhasesMergedPapers-Part4.md)
+[Back Page](AllPhasesMergedPapers-Part4.md)

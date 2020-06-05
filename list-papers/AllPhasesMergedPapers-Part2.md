@@ -1,4 +1,4 @@
-[Back Page](/AllPhasesMergedPapers-Part1.md)[Next Page](/AllPhasesMergedPapers-Part3.md)
+[Back Page](AllPhasesMergedPapers-Part1.md) [Next Page](AllPhasesMergedPapers-Part3.md)
 
 |  **#**| **Title**| **Author**  | **ACM** | **IEEE** | **Scopus** | **Triage** | **Initial Selection** | **Final Selection** |
 | ---: | - | - | ------ | - | :-----: | :-: | :-: | :-: |
@@ -604,4 +604,4 @@
 1180|fepss a flexible and extensible program comprehension support system                                                                          |Tao Lin; L. O'Brien                                                                                                                                                                     |[ACM](https://dl.acm.org/citation.cfm?id=837021) |[IEEE](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=723174) |                                                                                                                                                                     |:heavy_check_mark:|:x:               |:x:
 1181|filtered mining in program code repositories                                                                                                  |F. Taibi                                                                                                                                                                                |                                                 |[IEEE](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6204986)|[Scopus](https://www.scopus.com/inward/record.uri?eid=2-s2.0-84863104154&doi=10.1109%2fInfRKM.2012.6204986&partnerID=40&md5=c7c011228a65bcffaf2c600ea41508d2)        |:x:               |:x:               |:x:
 
-[Back Page](/AllPhasesMergedPapers-Part1.md)[Next Page](/AllPhasesMergedPapers-Part3.md)
+[Back Page](AllPhasesMergedPapers-Part1.md) [Next Page](AllPhasesMergedPapers-Part3.md)

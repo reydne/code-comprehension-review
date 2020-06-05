@@ -1,4 +1,4 @@
-[Back Page](/AllPhasesMergedPapers-Part3.md)[Next Page](/AllPhasesMergedPapers-Part5.md)
+[Back Page](AllPhasesMergedPapers-Part3.md) [Next Page](AllPhasesMergedPapers-Part5.md)
 
 |  **#**| **Title**| **Author**  | **ACM** | **IEEE** | **Scopus** | **Triage** | **Initial Selection** | **Final Selection** |
 | ---: | - | - | ------ | - | :-----: | :-: | :-: | :-: |
@@ -546,4 +546,4 @@
 2320             |symbolic reductionist model for program comprehension                                                                                          |E. Laitila; S. Legrand                                                                                                                                                                                                                                             |[ACM](https://dl.acm.org/citation.cfm?id=1475531)  |[IEEE](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=4659326)|[Scopus](https://www.scopus.com/inward/record.uri?eid=2-s2.0-57749183448&doi=10.1109%2fMICAI.2007.7&partnerID=40&md5=1c1be465aa2dffa685f8c48a7facbb80)               |:heavy_check_mark:|:x:                  |:x:
 2321             |synchronized analysis of eye movement and eeg during program comprehension                                                                     |T. Ishida; H. Uwano                                                                                                                                                                                                                                                |[ACM](https://dl.acm.org/citation.cfm?id=3338801)  |[IEEE](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8834699)|                                                                                                                                                                     |:heavy_check_mark:|:x:                  |:x:
 
-[Back Page](/AllPhasesMergedPapers-Part3.md)[Next Page](/AllPhasesMergedPapers-Part5.md)
+[Back Page](AllPhasesMergedPapers-Part3.md) [Next Page](AllPhasesMergedPapers-Part5.md)

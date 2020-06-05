@@ -1,4 +1,4 @@
-[Back Page](/AllPhasesMergedPapers-Part2.md)[Next Page](/AllPhasesMergedPapers-Part4.md)
+[Back Page](AllPhasesMergedPapers-Part2.md) [Next Page](AllPhasesMergedPapers-Part4.md)
 
 |  **#**| **Title**| **Author**  | **ACM** | **IEEE** | **Scopus** | **Triage** | **Initial Selection** | **Final Selection** |
 | ---: | - | - | ------ | - | :-----: | :-: | :-: | :-: |
@@ -600,4 +600,4 @@
 1777|pattern visualization for software comprehension                                                                                                                                        |R.  Schauer and R.  Keller                                                                                                                                                                                                |[ACM](https://dl.acm.org/citation.cfm?id=858219) |                                                                    |                                                                                                                                                                   |:x:               |:x:               |:x:
 1778|patterns of syntax theme customization for code editors                                                                                                                                 |Sterling, M., Suleimenov, A.                                                                                                                                                                                              |                                                 |                                                                    |[Scopus](https://www.scopus.com/inward/record.uri?eid=2-s2.0-85063166065&doi=10.1109%2fICOMIS.2018.8644882&partnerID=40&md5=4f5a35f4f739c25ab599fa2e9410c91d)      |:heavy_check_mark:|:x:               |:x:
 
-[Back Page](/AllPhasesMergedPapers-Part2.md)[Next Page](/AllPhasesMergedPapers-Part4.md)
+[Back Page](AllPhasesMergedPapers-Part2.md) [Next Page](AllPhasesMergedPapers-Part4.md)
