@@ -40,7 +40,29 @@ IC3 (Comparison) | The study must compare alternative programming language const
 IC4 (Granularity) | The study must target fine-grained program elements and low-level/limited-scope programming activities. Not design or comments, but implementation.
 
 ## Study quality assessment questionnaire (QA)
-In the quality assessment stage of primary studies included in the systematic review, we used a questionnaire as a guide. In this directory are found the questions used in this phase.
+In the quality assessment stage of primary studies included in the systematic review, we used a questionnaire as a guide. This questions used in this phase are listed below.
+
+
+ID | Questions for quality assessment for study 
+--------- | :------
+Questions about design
+
+QA1 | Are the aims clearly stated?
+QA2 | Are the independent variables adequately defined?
+QA3 | Are the dependent variables adequately defined?
+
+Questions about analysis and rigor
+QA4 | Are the data collection methods adequately described?
+QA5 | Are the study participants or observational units adequately  described? For example, SE experience, type (student,  practitioner, consultant),  nationality, task experience and  other relevant variables.
+QA6 | Were the collected data adequately described (e.g., descriptive statistics)? 
+QA7 | Did the study employ statistical methods to analyze the data?
+
+
+Questions about conclusion 
+QA8 | Is there a clear statement of findings, i.e., are all study questions answered?
+QA9 | Do the researchers explain the threats to the study validity?
+
+
 
 ## Data extraction questionnaire (DE)
 The data extraction step was also conducted through a questionnaire. In this directory are found the questions used in this phase.  
