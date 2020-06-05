@@ -5,15 +5,15 @@ In this repository are found some additional materials about the research.
 
 Each search engine has its own form of advanced search, so the search string must be adjusted for each of the devices used in the review. Therefore, the search strings used in each machine are listed below.
 
-* ACM:
+* ACM ([CSV](csv/Engine-Result-ACM.csv)):
 
           acmdlTitle :( "code comprehension" "code understandability" "code understanding" "code readability" "program comprehension" "program understandability" "program understanding" "program readability" "programmer experience" "readability") OR keywords .author.keyword :( "code comprehension" "code understandability" "code understanding" "code readability" "program comprehension" "program understandingability" "program understanding" "program readability" "programmer experience" "readability")
 
-* IEEE:
+* IEEE ([CSV](csv/Engine-Result-IEEE.csv)):
         
         (("Document Title": "code comprehension" OR "code understandability" OR "code understanding" OR "code readability" OR "program comprehension" OR "program understandability" OR "program understanding" OR "program readability "OR" programmer experience "OR" readability "OR (" Author Keywords ":" code comprehension "OR" code understandability "OR" code understanding "OR" code readability "OR" program comprehension "OR" program understandability "OR" program understanding "OR" program readability "OR" programmer experience "OR" readability "))
 
-* Scopus:
+* Scopus ([CSV](csv/Engine-Result-Scopus.csv)):
 
          TITLE ("programmer experience") OR TITLE ("program comprehension") OR TITLE ("code comprehension") TITLE ("code readability") OR TITLE ("code understandability") OR KEY ("code comprehension") ) OR KEY ("program comprehension") OR KEY ("program understandability") OR KEY ("readability")
 
