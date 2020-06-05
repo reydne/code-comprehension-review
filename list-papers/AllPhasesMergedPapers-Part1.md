@@ -1,4 +1,4 @@
-[Next Page](/AllPhasesMergedPapers-Part2.md)
+[Next Page](AllPhasesMergedPapers-Part2.md)
 
 |  **#**| **Title**| **Author**  | **ACM** | **IEEE** | **Scopus** | **Triage** | **Initial Selection** | **Final Selection** |
 | ---: | - | - | ------ | - | :-----: | :-: | :-: | :-: |
@@ -583,4 +583,4 @@
 579 |bcd decomposing binary code into components using graphbased clustering                                                                                          |Karande, V., Caballero, J., Chandra, S., Khan, L., Lin, Z., Hamlen, K.                                                                                                 |                                                 |                                                                    |[Scopus](https://www.scopus.com/inward/record.uri?eid=2-s2.0-85049222566&doi=10.1145%2f3196494.3196504&partnerID=40&md5=795c7f30cabc1ad665e64f2797312bb5)         |:x:               |:x:               |:x:
 580 |beacons a knowledge structure in program comprehension                                                                                                           |Susan  Wiedenbeck and Jean  Scholtz                                                                                                                                    |[ACM](https://dl.acm.org/citation.cfm?id=92459)  |                                                                    |                                                                                                                                                                  |:x:               |:x:               |:x:
 
-[Next Page](/AllPhasesMergedPapers-Part2.md)
+[Next Page](AllPhasesMergedPapers-Part2.md)
