@@ -67,33 +67,21 @@ The data extraction step was also conducted through a questionnaire. Below are f
 
 Question | Possible answers
 --------- | :------
-1 Title 
-2 Authors 
-3 Publication Year 
-4 Publication Venue 
-5 What is the topic of the study? | - Readability - Legibility - Both
-6 What exactly is being compared? | Code construct more generally, what are the independent variables?
-constructs (for vs. while loops, ifs vs. ternary expressions, etc.) Coding style formatting (indentation, spacing, how to lay out the code, naming conventions) coding style (same constructs, different ways of using them, e.g., reassigning to the same variable vs. assigning to different variables)
-7 What code attributes are captured by them (independent variables) ? | Blank lines, number of keywords, code length, number of atoms of confusion or whether the code exhibits or not atoms of confusion.
-8 What were the targeted languages? | Java, C, C++, Haskel, Python, others.
-9 What are the research questions of the study? | In case there are no explicitly stated research questions, we can just write the general goal of the study.
-10 What is the assessment methodology? | (Quasi-) Experiment, opinion survey, some form of case study Based on http://www.cs.utoronto.ca/~sme/papers/2007/SelectingEmpiricalMethods.pdf
-11 What was the sample of the evaluation? | Human subject/system subject Students, professionals, software systems.
-12 What activities did the subjects have to perform? If the sample consists of software systems, what activities involving these systems were conducted?
-13 What attributes are being measured (dependent variables)? | Time to complete, number of errors, brain activity, pieces of the code that are being inspected/eye tracking, opinions of grades, preexisting readability metrics (e.g., Buse and Weimer's work), etc.
-14 How are they being measured? | (e.g., if it's number of errors, how does the paper assess whether the subject erred? In case it is eye tracking, what metrics/qualitative evaluation is being derived from the eye tracking information?)
-15 Did the paper use statistics? How? What has been tested? What kind of data correction was applied?  If multiple tests were applied for the different RQs, please discuss all of them.
-16 What did the paper find out? What are the answers to the research questions?
-17 How the statistics tests infers in the results?
-
-
-
-
-
-
-
-
-
-
-
+1- Title 
+2- Authors 
+3- Publication Year 
+4- Publication Venue 
+5- What is the topic of the study? | - Readability - Legibility - Both
+6- What exactly is being compared? | Code construct more generally, what are the independent variables? constructs (for vs. while loops, ifs vs. ternary expressions, etc.) Coding style formatting (indentation, spacing, how to lay out the code, naming conventions) coding style (same constructs, different ways of using them, e.g., reassigning to the same variable vs. assigning to different variables)
+7- What code attributes are captured by them (independent variables) ? | Blank lines, number of keywords, code length, number of atoms of confusion or whether the code exhibits or not atoms of confusion.
+8- What were the targeted languages? | Java, C, C++, Haskel, Python, others.
+9- What are the research questions of the study? | In case there are no explicitly stated research questions, we can just write the general goal of the study.
+10- What is the assessment methodology? | (Quasi-) Experiment, opinion survey, some form of case study Based on http://www.cs.utoronto.ca/~sme/papers/2007/SelectingEmpiricalMethods.pdf
+11- What was the sample of the evaluation? | Human subject/system subject Students, professionals, software systems.
+12- What activities did the subjects have to perform? If the sample consists of software systems, what activities involving these systems were conducted?
+13- What attributes are being measured (dependent variables)? | Time to complete, number of errors, brain activity, pieces of the code that are being inspected/eye tracking, opinions of grades, preexisting readability metrics (e.g., Buse and Weimer's work), etc.
+14- How are they being measured? | (e.g., if it's number of errors, how does the paper assess whether the subject erred? In case it is eye tracking, what metrics/qualitative evaluation is being derived from the eye tracking information?)
+15- Did the paper use statistics? How? What has been tested? What kind of data correction was applied?  If multiple tests were applied for the different RQs, please discuss all of them.
+16- What did the paper find out? What are the answers to the research questions?
+17- How the statistics tests infers in the results?
 
