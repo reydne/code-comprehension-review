@@ -23,7 +23,7 @@ In this directory, there is a list of all the papars found in each search engine
 * Study Exclusion
 
  ID | Description 
---------- | ------:
+--------- | :------
  EC1 | The paper is outside the scope of this study. It is not primarily related to source code comprehension, readability, or legibility, does not involve any comparison of different ways to write programs, neither direct nor indirect, or is clearly irrelevant to our research questions. For instance, we exclude studies focusing on high-level design, documentation, and dependencies (higher-level issues). 
  EC2 | The study is not a full paper (e.g. MSc dissertations, PhD theses, course completion monographs, short papers) or is not written in English. As a rule of thumb, we consider that full papers must be at least 5 pages long. 
  EC3 | The study is about readability metrics without an experimental evaluation. 
@@ -33,7 +33,7 @@ In this directory, there is a list of all the papars found in each search engine
 * Study Inclusion
 
 ID | Description 
---------- | ------:
+--------- | :------
 IC1  (Scope) | The study must be primarily related to the topics of code comprehension, readability, legibility, or hard-to-understand code.
 IC2 (Methodology) | The study must be/contain at least one empirical study, such as controlled experiment, quasi-experiment, case study, or survey involving human subjects.
 IC3 (Comparison) | The study must compare alternative programming language constructs, coding idioms, or coding styles \textbf{in terms of code readability or legibility}.
