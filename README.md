@@ -18,7 +18,7 @@ Each search engine has its own form of advanced search, so the search string mus
          TITLE ("programmer experience") OR TITLE ("program comprehension") OR TITLE ("code comprehension") TITLE ("code readability") OR TITLE ("code understandability") OR KEY ("code comprehension") ) OR KEY ("program comprehension") OR KEY ("program understandability") OR KEY ("readability")
 
 ## List of papers and Selection (LPS)
-In this directory, there is a list of all the papars found in each search engine. This directory is organized according to the exclusion phase and inclusion phase. The criteria evaluated in each phase are listed below.
+In this directory, there is a list of all the papers found in each search engine. This directory is organized according to the exclusion phase and inclusion phase. The criteria evaluated in each phase are listed below.
 
 * All Papers (after merge all engines results)
   * Csv: [All documents](csv/MergedDocuments-Raw.csv) | [Manual included papers](csv/ManualPapersFound-Raw.csv)
