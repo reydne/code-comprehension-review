@@ -30,6 +30,15 @@ In this directory, there is a list of all the papars found in each search engine
  EC4 | The study is about program comprehension aids, such as visualizations or other forms of analysis or sensory aids (e.g. graphs, trace-based execution, code summarization, specification mining, reverse engineering). 
 | EC5 | The study focuses on accessibility, e.g., targets individuals with visual impairments or neurodiverse developers. 
 
+* Study Inclusion
+
+ID | Description 
+--------- | ------:
+IC1  (Scope) | The study must be primarily related to the topics of code comprehension, readability, legibility, or hard-to-understand code.
+IC2 (Methodology) | The study must be/contain at least one empirical study, such as controlled experiment, quasi-experiment, case study, or survey involving human subjects.
+IC3 (Comparison) | The study must compare alternative programming language constructs, coding idioms, or coding styles \textbf{in terms of code readability or legibility}.
+IC4 (Granularity) | The study must target fine-grained program elements and low-level/limited-scope programming activities. Not design or comments, but implementation.
+
 ## Study quality assessment questionnaire (QA)
 In the quality assessment stage of primary studies included in the systematic review, we used a questionnaire as a guide. In this directory are found the questions used in this phase.
 
