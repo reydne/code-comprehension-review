@@ -1,4 +1,8 @@
 # Evaluating Code Readability and Legibility: An Examination of Human-centric Studies
+[IEEE publication link](https://ieeexplore.ieee.org/document/9240710)
+
+[Arxiv link](https://arxiv.org/pdf/2110.00785.pdf)
+
 In this repository are found some additional materials about the research.
 
 ## Search string per engine (SS)
@@ -7,15 +11,15 @@ Each search engine has its own form of advanced search, so the search string mus
 
 * ACM ([CSV](csv/Engine-Result-ACM.csv)):
 
-          acmdlTitle :( "code comprehension" "code understandability" "code understanding" "code readability" "program comprehension" "program understandability" "program understanding" "program readability" "programmer experience" "readability") OR keywords.author.keyword :( "code comprehension" "code understandability" "code understanding" "code readability" "program comprehension" "program understandingability" "program understanding" "program readability" "programmer experience" "readability")
+          acmdlTitle:("code comprehension" "code understandability" "code understanding" "code readability" "program comprehension" "program understandability" "program understanding" "program readability" "programmer experience") OR keywords.author.keyword:("code comprehension" "code understandability" "code understanding" "code readability" "program comprehension" "program understandability" "program understanding" "program readability" "programmer experience")
 
 * IEEE ([CSV](csv/Engine-Result-IEEE.csv)):
         
-        (("Document Title": "code comprehension" OR "code understandability" OR "code understanding" OR "code readability" OR "program comprehension" OR "program understandability" OR "program understanding" OR "program readability" OR "programmer experience" OR "readability") OR ("Author Keywords" : "code comprehension" OR "code understandability" OR "code understanding" OR "code readability" OR "program comprehension" OR "program understandability" OR "program understanding" OR "program readability" OR "programmer experience" OR "readability"))
+        (("Document Title":"code comprehension" OR "Document Title":"code understandability" OR "Document Title":"code understanding" OR "Document Title":"code readability" OR "Document Title":"program comprehension" OR "Document Title":"program understandability" OR "Document Title":"program understanding" OR "Document Title":"program readability" OR "Document Title":"programmer experience") OR ( "Author Keywords":"code comprehension" OR "Author Keywords":"code understandability" OR "Author Keywords":"code understanding" OR "Author Keywords":"code readability" OR "Author Keywords":"program comprehension" OR "Author Keywords":"program understandability" OR "Author Keywords":"program understanding" OR "Author Keywords":"program readability" OR "Author Keywords":"programmer experience"))
 
 * Scopus ([CSV](csv/Engine-Result-Scopus.csv)):
 
-         TITLE ("programmer experience") OR TITLE ("program comprehension") OR TITLE ("code comprehension") TITLE ("code readability") OR TITLE ("code understandability") OR KEY ("code comprehension") ) OR KEY ("program comprehension") OR KEY ("program understandability") OR KEY ("readability")
+         ( TITLE ( "code comprehension" )  OR  TITLE ( "code understandability" )  OR  TITLE ( "code understanding" )  OR  TITLE ( "program comprehension" )  OR  TITLE ( "program understandability" )  OR  TITLE ( "program understanding" )  OR  TITLE ( "program readability" )  OR  TITLE ( "programmer experience" ) )  OR  ( KEY ( "code comprehension" )  OR  KEY ( "code understandability" )  OR  KEY ( "code understanding" )  OR  KEY ( "program comprehension" )  OR  KEY ( "program understandability" )  OR  KEY ( "program understanding" )  OR  KEY ( "program readability" )  OR  KEY ( "programmer experience" ) )  AND  ( LIMIT-TO ( DOCTYPE ,  "cp" )  OR  LIMIT-TO ( DOCTYPE ,  "ar" ) )  AND  ( LIMIT-TO ( SUBJAREA ,  "COMP" ) )
 
 ## List of papers and Selection (LPS)
 In this directory, there is a list of all the papers found in each search engine. This directory is organized according to the exclusion phase and inclusion phase. The criteria evaluated in each phase are listed below.
