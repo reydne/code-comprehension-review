@@ -19,8 +19,8 @@
  | **Total** | References + Citations = 1432                                                             |                                                                  | 409        | 1023
 
 
-### Snowball Level 1 (Page 2)
-[Previous Page](Snowball_1_3.md)
+### Snowball Level 1 (Page 3)
+[Previous Page](Snowball_1_2.md)
 
 [Next Snowball Level](Snowball_2.md)
 #### Legend
