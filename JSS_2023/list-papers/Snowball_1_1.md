@@ -1,22 +1,22 @@
 ### Papers considered in this level of snowball
 
-| #         | Title                                                                                     | Link     | References | Citations
-|-----------|-------------------------------------------------------------------------------------------|----------|------------|---
-| 1         | an experimental investigation of the effect of program structure on program understanding | [Link](https://dl.acm.org/doi/10.1145/800022.808317) | 13         | 66
- | 2         | an eye tracking study on camelcase and underscore identifier styles                       | [Link](https://ieeexplore.ieee.org/document/5521745) | 27         | 170                 
- | 3         | an investigation of misunderstanding code patterns in c opensource software projects      | [Link](https://link.springer.com/article/10.1007/s10664-018-9666-x) | 47         | 19 
- | 4         | atoms of confusion in java                                                                | [Link](https://ieeexplore.ieee.org/document/9462963) | 27         | 4                                                            
- | 5         | enhancing program comprehension formatting and documenting                                | [Link](https://dl.acm.org/doi/10.1145/130973.130975) | 19         | 18      
- | 6         | impacts of coding practices on readability                                                | [Link](https://dl.acm.org/doi/10.1145/3196321.3196342) | 29         | 40      
- | 7         | indentation simply a matter of style or support for program comprehension                 | [Link](https://ieeexplore.ieee.org/document/8813302) | 40         | 19      
- | 8         | measuring neural efficiency of program comprehension                                      | [Link](https://dl.acm.org/doi/10.1145/3106237.3106268) | 48         | 110     
- | 9         | program indentation and comprehensibility                                                 | [Link](https://dl.acm.org/doi/10.1145/182.358437) | 22         | 219     
- | 10        | software readability practices and the importance of their teaching                       | [Link](https://ieeexplore.ieee.org/document/7476069) | 22         | 7       
- | 11        | the effect of scope delimiters on program comprehension                                   | [Link](https://onlinelibrary.wiley.com/doi/10.1002/spe.4380130908) | 9          | 6        
- | 12        | the impact of identifier style on effort and comprehension                                | [Link](https://link.springer.com/article/10.1007/s10664-012-9201-4) | 47         | 156     
- | 13        | typographic style is more than cosmetic                                                   | [Link](https://dl.acm.org/doi/10.1145/78607.78611) | 16         | 138     
- | 14        | understanding misunderstandings in source code                                            | [Link](https://dl.acm.org/doi/10.1145/3106237.3106264) | 43         | 51      
- | **Total** | References + Citations = 1432                                                             |                                                                  | 409        | 1023
+| #         | Title                                                                                     | Link     | Backward | Forward
+|-----------|-------------------------------------------------------------------------------------------|----------|----------|---
+| 1         | an experimental investigation of the effect of program structure on program understanding | [Link](https://dl.acm.org/doi/10.1145/800022.808317) | 13       | 66
+ | 2         | an eye tracking study on camelcase and underscore identifier styles                       | [Link](https://ieeexplore.ieee.org/document/5521745) | 27       | 170                 
+ | 3         | an investigation of misunderstanding code patterns in c opensource software projects      | [Link](https://link.springer.com/article/10.1007/s10664-018-9666-x) | 47       | 19 
+ | 4         | atoms of confusion in java                                                                | [Link](https://ieeexplore.ieee.org/document/9462963) | 27       | 4                                                            
+ | 5         | enhancing program comprehension formatting and documenting                                | [Link](https://dl.acm.org/doi/10.1145/130973.130975) | 19       | 18      
+ | 6         | impacts of coding practices on readability                                                | [Link](https://dl.acm.org/doi/10.1145/3196321.3196342) | 29       | 40      
+ | 7         | indentation simply a matter of style or support for program comprehension                 | [Link](https://ieeexplore.ieee.org/document/8813302) | 40       | 19      
+ | 8         | measuring neural efficiency of program comprehension                                      | [Link](https://dl.acm.org/doi/10.1145/3106237.3106268) | 48       | 110     
+ | 9         | program indentation and comprehensibility                                                 | [Link](https://dl.acm.org/doi/10.1145/182.358437) | 22       | 219     
+ | 10        | software readability practices and the importance of their teaching                       | [Link](https://ieeexplore.ieee.org/document/7476069) | 22       | 7       
+ | 11        | the effect of scope delimiters on program comprehension                                   | [Link](https://onlinelibrary.wiley.com/doi/10.1002/spe.4380130908) | 9        | 6        
+ | 12        | the impact of identifier style on effort and comprehension                                | [Link](https://link.springer.com/article/10.1007/s10664-012-9201-4) | 47       | 156     
+ | 13        | typographic style is more than cosmetic                                                   | [Link](https://dl.acm.org/doi/10.1145/78607.78611) | 16       | 138     
+ | 14        | understanding misunderstandings in source code                                            | [Link](https://dl.acm.org/doi/10.1145/3106237.3106264) | 43       | 51      
+ | **Total** | References + Citations = 1432                                                             |                                                                  | 409      | 1023
 
 ### Snowball Level 1 (Page 1)
 [Next Page](Snowball_1_2.md)
@@ -26,6 +26,8 @@
 **Filter:** :heavy_check_mark: Ok | :dancers: Duplicate | :older_adult: Old (year < 1990) | :green_circle: Already accepted (accepted before snowball)
 
 **Triage, Initial Selection, and Final Selection:** :heavy_check_mark: Accepted | :x: Rejected
+
+**Stats Filter:** Ok (unique papers) 980 | Duplicate 293 | Old (papers published before 1990) 175 | Already accepted (source paper) 13 
 
 | #   | Level | Source Paper | Direction | Title | Link | Year | Filter | Triage | Initial Selection | Final Selection
 |-----|---|---|---|---|---|---|---|---|---|---

@@ -1,11 +1,11 @@
 ### Papers considered in this level of snowball
 
-| #         | Title                                                                         | Link                                                             | References | Citations
-|-----------|-------------------------------------------------------------------------------|------------------------------------------------------------------|------------|---
-| 1         | to camelcase or under_score                                                   | [Link](https://doi.org/10.1109/ICPC.2009.5090039)                | 21         | 154
- | 2         | extended models on the impact of identifier style on effort and comprehension | [Link](https://link.springer.com/article/10.1007/s10664-012-9201-4) | 44         | 1
- | 3         | a look at programmers communicating through program indentation               | [Link](https://www.jstor.org/stable/24536226)                    | 20         | 0
- | **Total** | References + Citations = 240                                                  |                                                                  | 85         | 155
+| #         | Title                                                                         | Link                                                             | Backward | Forward
+|-----------|-------------------------------------------------------------------------------|------------------------------------------------------------------|----------|---
+| 1         | to camelcase or under_score                                                   | [Link](https://doi.org/10.1109/ICPC.2009.5090039)                | 21       | 154
+ | 2         | extended models on the impact of identifier style on effort and comprehension | [Link](https://link.springer.com/article/10.1007/s10664-012-9201-4) | 44       | 1
+ | 3         | a look at programmers communicating through program indentation               | [Link](https://www.jstor.org/stable/24536226)                    | 20       | 0
+ | **Total** | References + Citations = 240                                                  |                                                                  | 85       | 155
 
 ### Snowball Level 2
 [Prevous Snowball Level](Snowball_1_1.md)
@@ -15,6 +15,8 @@
 **Filter:** :heavy_check_mark: Ok | :dancers: Duplicate | :older_adult: Old (year < 1990) | :green_circle: Already accepted (accepted before snowball)
 
 **Triage, Initial Selection, and Final Selection:** :heavy_check_mark: Accepted | :x: Rejected
+
+**Stats Filter:** Ok (unique papers) 97 | Duplicate 120 | Old (papers published before 1990) 22 | Already accepted (source paper) 1
 
 | #   | Level | Source Paper | Direction | Title | Link | Year | Filter | Triage | Initial Selection | Final Selection
 |-----|---|---|---|---|---|---|---|---|---|---
