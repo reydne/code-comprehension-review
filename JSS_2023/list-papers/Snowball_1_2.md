@@ -20,7 +20,7 @@
 
 
 ### Snowball Level 1 (Page 2)
-[Previous Page](Snowball_1_2.md) [Next Page](Snowball_1_3.md)
+[Previous Page](Snowball_1_1.md) [Next Page](Snowball_1_3.md)
 #### Legend
 **Direction:** :fast_forward: forward (citations) | :rewind: backward (references)
 
